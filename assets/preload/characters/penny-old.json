@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Penny Idle"
+		},
+		{
+			"offsets": [
+				-70,
+				-312
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Penny Left"
+		},
+		{
+			"offsets": [
+				-3,
+				-370
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Penny Down"
+		},
+		{
+			"offsets": [
+				-110,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Penny Up"
+		},
+		{
+			"offsets": [
+				0,
+				-320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Penny Right"
+		},
+		{
+			"offsets": [
+				-115,
+				-320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "twitch",
+			"loop": false,
+			"name": "Penny Twitch"
+		},
+		{
+			"offsets": [
+				-80,
+				-314
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "Penny PreAttack"
+		},
+		{
+			"offsets": [
+				-140,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Penny Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/char",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "penny-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		255
+	],
+	"camera_position": [
+		-80,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

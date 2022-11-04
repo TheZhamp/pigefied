@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-270
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-364
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-276
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-112
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "PreAttack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-257
+			],
+			"anim": "attack",
+			"fps": 25,
+			"name": "Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Penny",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "penny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		255
+	],
+	"camera_position": [
+		-290,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

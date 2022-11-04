@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				491,
+				391
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				390
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				241
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				312,
+				572
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "Stare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "pre-laugh",
+			"fps": 24,
+			"name": "PreLaugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "point",
+			"fps": 24,
+			"name": "Point",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				440
+			],
+			"anim": "coolPose",
+			"fps": 24,
+			"name": "CoolPose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				232,
+				440
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/supraPeg",
+	"position": [
+		110,
+		380
+	],
+	"healthicon": "peggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-420,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

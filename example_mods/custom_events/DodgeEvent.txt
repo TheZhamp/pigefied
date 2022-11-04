@@ -1,0 +1,2 @@
+Value1: how much time you have to dodge.
+Value2: empty= no attack anim 1= attack anim

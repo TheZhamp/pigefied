@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="memoryJump.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpscare0000" x="0" y="0" width="2606" height="1426"/>
+	<SubTexture name="jumpscare0001" x="2606" y="0" width="2606" height="1426"/>
+	<SubTexture name="jumpscare0002" x="5212" y="0" width="2606" height="1426"/>
+</TextureAtlas>

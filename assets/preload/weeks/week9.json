@@ -1,0 +1,32 @@
+{
+	"storyName": "just added this to port old batness to psych lol",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Batness Old",
+			"penny-old",
+			[
+				255,
+				93,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"chap1",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

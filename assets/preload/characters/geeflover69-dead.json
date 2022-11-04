@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				287,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Dead"
+		},
+		{
+			"offsets": [
+				285,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "DBeat"
+		},
+		{
+			"offsets": [
+				247,
+				209
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Respawned"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/geeflover69-dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

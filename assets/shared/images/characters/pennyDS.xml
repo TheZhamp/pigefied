@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PennyDS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="172" y="226" width="147" height="203" frameX="-49" frameY="-23" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0001" x="172" y="226" width="147" height="203" frameX="-49" frameY="-23" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0002" x="0" y="223" width="172" height="216" frameX="-30" frameY="-9" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0003" x="0" y="223" width="172" height="216" frameX="-30" frameY="-9" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0004" x="224" y="0" width="209" height="226" frameX="-10" frameY="0" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0005" x="224" y="0" width="209" height="226" frameX="-10" frameY="0" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0006" x="0" y="0" width="224" height="223" frameX="0" frameY="-4" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0007" x="0" y="0" width="224" height="223" frameX="0" frameY="-4" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0008" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0009" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0010" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0011" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0012" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+	<SubTexture name="Idle0013" x="319" y="226" width="135" height="174" frameX="-58" frameY="-53" frameWidth="224" frameHeight="227"/>
+</TextureAtlas>

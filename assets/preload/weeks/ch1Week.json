@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 1: House",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Batness",
+			"penny",
+			[
+				246,
+				113,
+				193
+			]
+		],
+		[
+			"Pigrush",
+			"penny",
+			[
+				246,
+				113,
+				193
+			]
+		],
+		[
+			"Bloodbath",
+			"penny",
+			[
+				246,
+				113,
+				193
+			]
+		]
+	],
+	"weekCharacters": [
+		"chap1",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ch1"
+}

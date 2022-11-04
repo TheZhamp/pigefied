@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="george.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgGeorge0000" x="310" y="0" width="107" height="137" frameX="0" frameY="-8" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0001" x="310" y="0" width="107" height="137" frameX="0" frameY="-8" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0002" x="206" y="0" width="104" height="146" frameX="0" frameY="-2" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0003" x="206" y="0" width="104" height="146" frameX="0" frameY="-2" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0004" x="0" y="0" width="103" height="148" frameX="0" frameY="0" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0005" x="0" y="0" width="103" height="148" frameX="0" frameY="0" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0006" x="103" y="0" width="103" height="148" frameX="0" frameY="0" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0007" x="103" y="0" width="103" height="148" frameX="0" frameY="0" frameWidth="107" frameHeight="148"/>
+	<SubTexture name="bgGeorge0008" x="103" y="0" width="103" height="148" frameX="0" frameY="0" frameWidth="107" frameHeight="148"/>
+</TextureAtlas>
